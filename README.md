@@ -6,7 +6,7 @@
 
 ---
 
-<h1 style="text-align: center;"><img src="https://paulem.net/assets/icons/favicon.svg" style="width: 0.8em; height: auto;"> I'm Paulem 👋</h1>
+<h1 style="text-align: center;"><img src="https://paulem.net/assets/icons/favicon.svg" width="3%"> I'm Paulem 👋</h1>
 
 <p style="text-align: center;">
   🛠️ I'm a full-stack developer, working a lot with Java.<br>

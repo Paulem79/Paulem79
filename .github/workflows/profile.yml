@@ -23,22 +23,13 @@ jobs:
           plugin_wakatime: yes
           plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
           plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
-      - name: Top topics
-        uses: lowlighter/metrics@latest
-        with:
-          filename: metrics.plugin.topics.svg
-          token: ${{ secrets.PROFILE_TOKEN }}
-          user: Paulem79
-          config_timezone: Europe/Paris
-          base: ""
-          plugin_topics: yes
-          plugin_topics_limit: 0
-          plugin_topics_mode: icons
       - name: Recently starred
         uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.stars.svg
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.PROFILE_TOKEN }}
+          user: Paulem79
+          config_timezone: Europe/Paris
           base: ""
           plugin_stars: yes
           plugin_stars_limit: 3

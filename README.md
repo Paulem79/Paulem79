@@ -1,6 +1,5 @@
 <picture>
   <img src="/github-metrics.svg" alt="Metrics">
-  <img src="/metrics.plugin.topics.svg" alt="Topics">
   <img src="/metrics.plugin.stars.svg" alt="Starred">
 </picture>
 

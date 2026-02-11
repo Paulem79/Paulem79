@@ -18,9 +18,9 @@
 <br>
 
 <p style="display: flex; flex-wrap: wrap; justify-content: center; gap: 1vh 2vw;">
-  <img src="https://img.shields.io/badge/OS-Linux Mint-92B662?style=for-the-badge&logo=linux-mint&logoColor=92B662" />
-  <img src="https://img.shields.io/badge/OS-Windows 11-0078d4?style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/Browser-Zen Browser-000000?style=for-the-badge&logo=zen-browser&logoColor=000000" />
+  <img src="https://img.shields.io/badge/OS-Fedora-0B57A4?style=for-the-badge&logo=fedora&logoColor=white" />
+  <img src="https://img.shields.io/badge/OS-Windows 10-0078d4?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Browser-Zen Browser-000000?style=for-the-badge&logo=zen-browser&logoColor=white" />
 </p>
 
 ---
